@@ -41,7 +41,7 @@
 # 📊  Estatísticas GitHub
 
 <p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreappereira&theme=radical" />
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreappereira&theme=github_dark" />
 </p>
 <br/><br/>
 
@@ -57,5 +57,5 @@
 </div>  
 <br/><br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreappereira&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreappereira&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreappereira&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreappereira&theme=github_dark)
