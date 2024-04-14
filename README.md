@@ -58,7 +58,7 @@
 <br/><br/>
 
 <div aling="center">
-  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreappereira&theme=github_dark" />
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreappereira&theme=github_dark" />
   <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreappereira&theme=github_dark" />
 </div>
 
