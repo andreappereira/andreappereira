@@ -57,6 +57,8 @@
 </div>  
 <br/><br/>
 
+# 📊 Estatísticas GitHub
+
 <div aling="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreappereira&theme=github_dark" />
 
