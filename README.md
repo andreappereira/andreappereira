@@ -16,7 +16,7 @@
 ### <div align="center"> Frontend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="33%">
@@ -38,12 +38,12 @@
 </td></tr></table>
 <br/><br/>
 
-# 📊  Estatísticas GitHub
+<!-- # 📊 Estatísticas GitHub
 
 <p align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreappereira&theme=github_dark" />
 </p>
-<br/><br/>
+<br/><br/> -->
 
 # 📫 Redes sociais
 
@@ -57,5 +57,10 @@
 </div>  
 <br/><br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreappereira&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreappereira&theme=github_dark)
+<div aling="center">
+  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreappereira&theme=github_dark" />
+  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreappereira&theme=github_dark" />
+</div>
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreappereira&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreappereira&theme=github_dark) -->
