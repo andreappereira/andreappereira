@@ -5,7 +5,7 @@
 # 📝Sobre mim
 
 <h3 align="center">
-  Sou desenvolvedor de software full stack, graduado em Análise e Desenvolvimento de Sistemas. Com 5 anos de experiência na área de TI, sou um entusiasta de tecnologia sempre em busca de novos conhecimentos e desafios.
+  Sou desenvolvedor de software back end, graduado em Análise e Desenvolvimento de Sistemas. Com 5 anos de experiência na área de TI, sou um entusiasta de tecnologia sempre em busca de novos conhecimentos e desafios.
 </h3>
 <br/><br/>
 
@@ -13,18 +13,18 @@
 
 <table align="center"><tr><td valign="top" width="33%">
 
-### <div align="center"> Frontend </div>
+### <div align="center"> Back End </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=java,python,django,spring,net,postgres&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="33%">
 
-### <div align="center"> Backend </div>
+### <div align="center"> Front End </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,django,spring,net,postgres&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="33%">
