@@ -5,7 +5,7 @@
 # 📝Sobre mim
 
 <h3 align="center">
-  Sou desenvolvedor de software full stack, graduado em Análise e Desenvolvimento de Sistemas. Entusiasta em tecnologia com aproximadamente 5 anos de experiência na área de TI.
+  Sou desenvolvedor de software full stack, graduado em Análise e Desenvolvimento de Sistemas. Com 5 anos de experiência na área de TI, sou um entusiasta de tecnologia sempre em busca de novos conhecimentos e desafios.
 </h3>
 <br/><br/>
 
